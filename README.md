@@ -1,7 +1,7 @@
 PT4-StarCraft
 =============
 
-Nous avons le projet de faire un jeu de stratégie du type StarCraft
+<p>Nous avons le projet de faire un jeu de strat&eacute;gie du type StarCraft</p>
 
 <h2>Spécification générale :</h2>
 
@@ -21,13 +21,13 @@ Nous avons le projet de faire un jeu de stratégie du type StarCraft
     <li>Plac&eacute;s sur toute la map</li></ul>
   
   <h3>Personnages :</h3>
-    <ul><li>Artisans (Permet de r&eacute;colter les moults ressources disponibles)</li>
+    <ul><li>Artisans (Permet de r&eacute;colter les moultes ressources disponibles)</li>
     <li>Combattants (Permet d'attaquer les ennemis, points de vie accrus)</li></ul>
   
   <h3>Personnages controlés :</h3>
     <ul><li>R&eacute;colter des ressources et les ramener au foyer pour les stocker (si artisans)</li>
     <li>Attaquer des ennemis cibl&eacute;s (si combattants)</li>
-    <li>Aller &agrave; un endroit donn&eacute; (grâce au clic)</li></ul>
+    <li>Aller &agrave; un endroit donn&eacute; (grâce&acirc;au clic)</li></ul>
   
   
   <h3>Batiments :</h3>
