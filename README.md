@@ -32,4 +32,4 @@ PT4-StarCraft
   
   <h3>Batiments :</h3>
     <ul><li>Casernes (Permet de cr&eacute;er des combattants contre un certain nombre de ressouces -> Nourritures et bois)</li>
-    <li>Foyer (Permet de cr&eacute;er des artisans contre un certain nombre de ressources -> Nourritures; Il n'y à qu'un foyer poss&egrave;dant un grand nombre de points de vie par &eacute;quipe, une fois d&eacute;truit, la partie est finie. C'est dans ce foyer que sera contenu toutes les ressources récolt&eacute;es par les artisans)</li></ul>
+    <li>Foyers (Permet de cr&eacute;er des artisans contre un certain nombre de ressources -> Nourritures; Il n'y à qu'un foyer poss&egrave;dant un grand nombre de points de vie par &eacute;quipe, une fois d&eacute;truit, la partie est finie. C'est dans ce foyer que sera contenu toutes les ressources récolt&eacute;es par les artisans)</li></ul>
